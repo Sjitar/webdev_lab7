@@ -1,0 +1,40 @@
+h1 {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5em;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 2px;
+  color: #f2e077;
+  text-align: center;
+}
+
+body {
+  background: url(../images/sky.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+table#planets {
+  font-family: "Kiwi Maru", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 24px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 0.5px;
+  color: #f2e077;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+td, th {
+  border: 2px solid;
+  border-color: #f2e077;
+  }
+  
